@@ -5,7 +5,7 @@ require 'hoe'
 
 Hoe.plugin :doofus, :git, :gemcutter
 
-Hoe.spec 'hoe_gemcutter' do
+Hoe.spec 'hoe-gemcutter' do
   developer('James Tucker', 'jftucker@gmail.com')
   extra_deps << %w(hoe >=2.3.3)
   extra_deps << %w(gemcutter >=0.1.3)
