@@ -1,0 +1,6 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+lib/hoe/gemcutter.rb
+test/test_hoe_gemcutter.rb
